@@ -6,7 +6,8 @@ My ITI Graduation project "Aman Hospital" is a simulation for a hospital based i
 - Implemented a database by stored procedures, triggers, and roles by Microsoft SQL server.
 - Converting the database structure into star scheme.
 - Reporting by SSRS.
+- check the validity of the information by SQL Test script
 #### Data visualization by:
  - power BI, Dax 
  - Tableau
-- check the validity of the information by SQL Test script
+
