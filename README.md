@@ -1,5 +1,6 @@
 # Aman-Hospital-ITI-Graduation-Project
-## Analysis Steps.
+My ITI Graduation project "Aman Hospital" is a simulation for a hospital based in Alexandria
+## Analysis Steps
 - Make a database for the hospital system from scratch (Database creation and filled with data).
 - Data preparation ( client recruitments, ERD, Mapping).
 - Implemented a database by stored procedures, triggers, and roles by Microsoft SQL server.
