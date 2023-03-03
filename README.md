@@ -7,6 +7,6 @@ My ITI Graduation project "Aman Hospital" is a simulation for a hospital based i
 - Converting the database structure into star scheme.
 - Reporting by SSRS.
 - Data visualization by:
- . power BI, Dax 
- . Tableau
+ * power BI, Dax 
+ * Tableau
 - check the validity of the information by SQL Test script
