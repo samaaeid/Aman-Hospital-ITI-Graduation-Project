@@ -10,4 +10,5 @@ My ITI Graduation project "Aman Hospital" is a simulation for a hospital based i
 #### Data visualization by:
  - power BI, Dax 
  - Tableau
+ - SSRS
 
